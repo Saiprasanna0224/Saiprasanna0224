@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Saiprasanna
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning basics of ethical hacking...
-- 💞
-- 📫 How to reach me saiprasanna200424@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Saiprasanna0224/Saiprasanna0224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Enthusiastic and knowledgeable Ethical Hacking graduate with a solid foundation in cybersecurity principles and ethical hacking techniques. Proficient in penetration testing, vulnerability assessment, and threat detection, using tools like Wireshark. Certified in Cybersecurity Management Job Simulation, demonstrating strong problem-solving skills and a passion for learning. Completed a project on a Transformer-based model for SMS spam detection, showcasing my skills in machine learning, NLP, and data preprocessing. Excellent communicator with a keen eye for detail, eager to contribute to a team and grow professionally in the field of ethical hacking.
